@@ -1,1 +1,4 @@
-none
+I used the yfinance library to pull the historical stock data. 
+I initially tried hand-cranking the stock prices by examining Yahoo Finance directly for monthly prices, but ended up accidentally taking the Open prices instead of Closing.
+Since it is a lot of work to manually scrape the data I instead used yfinance library. It worked well but on 9/6 stopped working (likely due to Yahoo releasing an update that breaks scraping).
+A new version of the library will likely be needed to re-run the full notebook. I instead start from step 2 for the rest of my coding since I had saved the historical data initially.
