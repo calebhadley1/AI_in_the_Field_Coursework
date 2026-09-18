@@ -1,0 +1,7 @@
+I selected E-Greedy algorithm since it makes no assumptions about the rewards and is compatible with continuous rewards.
+
+Upper Confidence Bound 1 algorithm could be applied by adjusting the reward range to [0, c], but I decided not to use
+this algorithm since it would require knowing the c value before the experiment.
+
+Thompson Sampling Approach typically uses Bernoulli rewards, whereas our problem uses continuous rewards, so I opted
+not to use this approach.
