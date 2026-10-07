@@ -1,0 +1,2 @@
+Just copied functions from here: https://github.com/bu-cds-omds/dx704-examples/ and used online resource
+to figure out how to convert dataframe into matrix to use the functions
