@@ -1,12 +1,2 @@
 
-The following query contains text from requests by homeowners by email or phone.
-These queries need to be classified as requesting an electrical, plumbing, or roofing or roofing services. Please only
-respond with one of those categories.
-
-Refer to the examples after the query which show you how to answer:
-
-Query: {query}
-
-Example 1. Query: Need a new electrical output. Output: electrical
-Example 2. Query: Need my toilet fixed. Output: plumbing
-Example 3. Query: Roof is leaking. Output: roofing
+Choose electrical, plumbing, or roofing (one word response and lowercase): {query}

@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+I found a leak in my bathroom coming down the wall	roofing	plumbing
+The light switch in the bathroom stopped working ever since we saw the crack in the roof	roofing	electrical
+The ceiling has a water mark	plumbing	roofing
+Winter storm resulted in leaks, frozen pipes, tree fall. Need immediate help	roofing	plumbing
+The new roof was installed with solar and now i notice electrical issues	roofing	electrical
